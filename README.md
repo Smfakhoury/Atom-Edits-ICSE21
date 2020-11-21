@@ -3,6 +3,8 @@
 
 **Authors:** [Sarah Fakhoury](https://sarahfakhoury.com), [Devjeet Roy](https://devjeetr.github.io), Harry Pines, Tyler Cleveland, Cole Peterson, [Venera Arnaoudova](https://www.veneraarnaoudova.com), [Bonita Sharif](https://www.shbonita.me), and [Jonathan Maletic](http://www.cs.kent.edu/~jmaletic/). 
 
+:movie_camera: Demo Video:  https://youtu.be/gyS6kKTVdbo
+
 ***
 
 ## iTrace-Atom plugin
