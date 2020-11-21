@@ -24,8 +24,9 @@ All documentation, including instructions for how to install the package and use
 gazel can be downloaded from PYPI 
 
 Link to library: https://pypi.org/project/gazel/
+Link to repository: https://github.com/devjeetr/gazel
 
-Instructions for installation, documentation of base functionality, and an example of usage can be found at the link above.
+Instructions for installation, documentation of base functionality, and a jupyter notebook with the demo and sample data can be found at the link above.
 
 ***
 ### Evaluation 
